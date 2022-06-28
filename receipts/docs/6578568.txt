@@ -1,0 +1,4 @@
+Actal;5 mg;1x3;3;12;36
+Clostrine;100 mg;1x2;4;70;280
+Clostrine;100 mg;1x1;1;70;70
+GRAND TOTAL;;;;;386

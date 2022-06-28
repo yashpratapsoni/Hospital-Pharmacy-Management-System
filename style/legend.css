@@ -1,0 +1,12 @@
+fieldset{
+	border-radius: 20px;
+	margin-top:-20px;
+}
+legend{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: #1c8adb;
+}
+.user{
+    margin-left: 680px;
+}

@@ -1,0 +1,3 @@
+Actal;5 mg;3;8;12;96
+GRAND TOTAL;;;;;96
+GRAND TOTAL;;;;;96

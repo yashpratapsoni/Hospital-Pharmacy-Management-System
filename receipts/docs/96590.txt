@@ -1,0 +1,2 @@
+Actal;5 mg;1x3;3;12;36
+Naproxen;15 mg;1x2;2;50;100

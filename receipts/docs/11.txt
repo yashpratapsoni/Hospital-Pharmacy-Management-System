@@ -1,0 +1,10 @@
+Piriton;10 mg;1x2;4;7;28
+bluven;10 mg;1x2;6;20;120
+cazon;200 mg;1x3;9;21;189
+GRAND TOTAL;;;;;337
+GRAND TOTAL;;;;;337
+Actal;5 mg;2*3;1;12;12
+Piriton;10 mg;2*3;5;10;50
+GRAND TOTAL;;;;;50
+Naproxen;15 mg;5;7;50;350
+Actal;15 mg;5;7;12;84

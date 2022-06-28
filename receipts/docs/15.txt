@@ -1,0 +1,7 @@
+Dual Cotexin;30 mg;3;8;120;960
+Actal;30 mg;3;8;12;96
+celastemine;5 mg;3;8;30;240
+Select Drug;100mg;3;8;;0
+grrytttf;10 mg;3;8;12;96
+celastemine;200mg;3;8;30;240
+Naproxen;100mg;3;8;50;400

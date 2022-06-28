@@ -1,0 +1,2 @@
+cetrix;200mg;2;20;10;200
+GRAND TOTAL;;;;;200

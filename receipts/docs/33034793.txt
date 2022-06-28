@@ -1,0 +1,3 @@
+Piriton;10 mg;1x2;6;7;42
+Actal;5 mg;1x2;6;12;72
+GRAND TOTAL;;;;;114

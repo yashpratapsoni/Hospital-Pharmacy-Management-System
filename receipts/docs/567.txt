@@ -1,0 +1,4 @@
+Flagi;100 mg;1x1;1;15;15
+cazon;200 mg;1x1;1;21;21
+bluven;10 mg;1x1;1;20;20
+GRAND TOTAL;;;;;56

@@ -1,0 +1,5 @@
+bluven;10 mg;1x2;1;20;20
+bluven;10 mg;1x2;10;20;200
+Actal;5 mg;1x2;12;12;144
+cetrix;200mg;1x3;3;12;36
+cazon;200 mg;1x1;1;21;21

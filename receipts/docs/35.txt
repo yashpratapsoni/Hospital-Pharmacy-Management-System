@@ -1,0 +1,4 @@
+cetrix;200mg;1x2;12;12;144
+Actal;5 mg;1x2;21;12;252
+Flagi;100 mg;1x3;9;15;135
+GRAND TOTAL;;;;;531

@@ -1,0 +1,4 @@
+Piriton;10 mg;1x2;6;7;42
+Dual Cotexin;30 mg;1x3;3;120;360
+Naproxen;15 mg;1x3;9;50;450
+GRAND TOTAL;;;;;852

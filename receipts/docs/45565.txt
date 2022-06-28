@@ -1,0 +1,6 @@
+Actal;5 mg;1x2;10;12;120
+bluven;10 mg;1x2;2;20;40
+Naproxen;15 mg;1x2;43;50;2150
+Naproxen;15 mg;1x2;43;50;2150
+bluven;10 mg;1x2;12;20;240
+Flagi;100 mg;1x1;1;15;15

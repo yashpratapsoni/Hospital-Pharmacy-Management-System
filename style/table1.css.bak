@@ -1,0 +1,30 @@
+		table {
+             overflow-y:scroll;
+   height:350px;
+   display:block;
+
+    margin-top:;  
+     background-color: ;
+    font-family: sans-serif;
+font-size: 17px;
+      margin-left: 20px;
+            width: auto;
+	
+	
+}
+
+th, td {
+    text-align: left;
+   
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+	height: 40px;
+}
+{
+	
+}

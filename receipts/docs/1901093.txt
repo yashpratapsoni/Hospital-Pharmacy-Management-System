@@ -1,0 +1,6 @@
+Piriton;10 mg;1x3;21;10;210
+Actal;5 mg;1x2;10;12;120
+celastemine;100mg;1x2 ;4;22;88
+GRAND TOTAL;;;;;418
+Piriton;122;1;22;10;220
+Piriton;2;1;2;10;20
